@@ -33,7 +33,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
             <a
-              href="#"
+              href="/src/imports/France_Samaniego_CV.pdf"
               className="inline-flex items-center gap-2 px-8 py-3 bg-[#285A48] text-[#FFF8F0] rounded-lg hover:bg-[#285A48]/90 transition-all duration-300 hover:scale-105 shadow-lg"
             >
               <Download size={20} />
